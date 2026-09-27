@@ -6,9 +6,15 @@
 
 ## Requisitos
 
-Rode este back-end de exemplo localmente:
+Rode **um** destes back-ends de exemplo localmente (portas diferentes — ajuste `backendUrl` no formulário pra combinar):
 
-- **Java**: [`exemplo-integracao-cms-renotarize`](https://github.com/SolidTechSolutions/exemplo-integracao-cms-renotarize)
+- **Java** (porta 8101): [`exemplo-integracao-cms-renotarize`](https://github.com/SolidTechSolutions/exemplo-integracao-cms-renotarize)
+- **C#** (porta 5098): [`exemplo-csharp-integracao-cms-renotarize`](https://github.com/SolidTechSolutions/exemplo-csharp-integracao-cms-renotarize)
+- **JavaScript** (porta 8100): [`exemplo-javascript-integracao-cms-renotarize`](https://github.com/SolidTechSolutions/exemplo-javascript-integracao-cms-renotarize)
+- **TypeScript** (porta 8100): [`exemplo-typescript-integracao-cms-renotarize`](https://github.com/SolidTechSolutions/exemplo-typescript-integracao-cms-renotarize)
+- **Node.js** (porta 3100): [`exemplo-nodejs-integracao-cms-renotarize`](https://github.com/SolidTechSolutions/exemplo-nodejs-integracao-cms-renotarize)
+- **PHP** (porta 8100): [`exemplo-php-integracao-cms-renotarize`](https://github.com/SolidTechSolutions/exemplo-php-integracao-cms-renotarize)
+- **Python** (porta 8100): [`exemplo-python-integracao-cms-renotarize`](https://github.com/SolidTechSolutions/exemplo-python-integracao-cms-renotarize)
 
 - Um token JWT válido (`POST /solidsign/auth/token`)
 
@@ -44,9 +50,15 @@ Abra `http://localhost:5173`, preencha o formulário e envie.
 
 ## Requirements
 
-Run this example backend locally:
+Run **one** of these example backends locally (different ports — adjust `backendUrl` in the form to match):
 
-- **Java**: [`exemplo-integracao-cms-renotarize`](https://github.com/SolidTechSolutions/exemplo-integracao-cms-renotarize)
+- **Java** (port 8101): [`exemplo-integracao-cms-renotarize`](https://github.com/SolidTechSolutions/exemplo-integracao-cms-renotarize)
+- **C#** (port 5098): [`exemplo-csharp-integracao-cms-renotarize`](https://github.com/SolidTechSolutions/exemplo-csharp-integracao-cms-renotarize)
+- **JavaScript** (port 8100): [`exemplo-javascript-integracao-cms-renotarize`](https://github.com/SolidTechSolutions/exemplo-javascript-integracao-cms-renotarize)
+- **TypeScript** (port 8100): [`exemplo-typescript-integracao-cms-renotarize`](https://github.com/SolidTechSolutions/exemplo-typescript-integracao-cms-renotarize)
+- **Node.js** (port 3100): [`exemplo-nodejs-integracao-cms-renotarize`](https://github.com/SolidTechSolutions/exemplo-nodejs-integracao-cms-renotarize)
+- **PHP** (port 8100): [`exemplo-php-integracao-cms-renotarize`](https://github.com/SolidTechSolutions/exemplo-php-integracao-cms-renotarize)
+- **Python** (port 8100): [`exemplo-python-integracao-cms-renotarize`](https://github.com/SolidTechSolutions/exemplo-python-integracao-cms-renotarize)
 
 - A valid JWT token (`POST /solidsign/auth/token`)
 
